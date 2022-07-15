@@ -1,0 +1,20 @@
+2022-07-14 20:28:01,461
+ - WebLogger
+ - INFO
+ - {'method': 'GET', 'status_code': 200, 'url_path': URL('http://localhost:5500/shop/docs'), 'header': {'content-length': '988', 'content-type': 'text/html; charset=utf-8'}, 'query_params': QueryParams(''), 'client_host': '172.19.0.1', 'media_type': None}
+
+2022-07-14 20:28:02,163
+ - WebLogger
+ - INFO
+ - {'method': 'GET', 'status_code': 200, 'url_path': URL('http://localhost:5500/shop/api/v1/openapi.json'), 'header': {'content-length': '6057', 'content-type': 'application/json'}, 'query_params': QueryParams(''), 'client_host': '172.19.0.1', 'media_type': None}
+
+2022-07-14 20:28:09,697
+ - WebLogger
+ - INFO
+ - {'method': 'GET', 'status_code': 200, 'url_path': URL('http://localhost:5500/shop/docs'), 'header': {'content-length': '988', 'content-type': 'text/html; charset=utf-8'}, 'query_params': QueryParams(''), 'client_host': '172.19.0.1', 'media_type': None}
+
+2022-07-14 20:28:09,789
+ - WebLogger
+ - INFO
+ - {'method': 'GET', 'status_code': 200, 'url_path': URL('http://localhost:5500/shop/api/v1/openapi.json'), 'header': {'content-length': '6057', 'content-type': 'application/json'}, 'query_params': QueryParams(''), 'client_host': '172.19.0.1', 'media_type': None}
+

@@ -1,0 +1,11 @@
+pymongo
+fastapi
+pandas
+passlib
+jwt
+PyJWT
+uvicorn
+beautifulsoup4
+webdriver_manager
+Werkzeug
+selenium

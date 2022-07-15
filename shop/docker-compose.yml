@@ -1,0 +1,16 @@
+version: '3'
+services:
+  shop:
+    restart: always
+    build: ./
+    image: shop
+    container_name: shop
+    ports:
+      - "5500:5500"
+    volumes:  # connect at local file
+      - ./:/shop
+
+networks:
+  default: 
+    external:
+      name: lunch_default

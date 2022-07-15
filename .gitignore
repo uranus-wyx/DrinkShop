@@ -1,0 +1,31 @@
+
+/shop/utils/config.py
+/shop/utils/log
+
+
+*.ipynb_checkpoints
+*__pycache__
+
+
+
+# dependencies
+/shop_frontend/node_modules
+/shop_frontend/.pnp
+/shop_frontend/.pnp.js
+
+# testing
+/shop_frontend/coverage
+
+# production
+/shop_frontend/build
+
+# misc
+/shop_frontend/.DS_Store
+/shop_frontend/.env.local
+/shop_frontend/.env.development.local
+/shop_frontend/.env.test.local
+/shop_frontend/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
