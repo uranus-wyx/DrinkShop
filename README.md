@@ -26,6 +26,9 @@
 
 - API 文件：https://lunch.ftfintech.com.tw:8890/api/shop/docs
 - 前端網站(僅搜尋功能)：https://lunch.ftfintech.com.tw:8890/shop/
+- 操作影片：https://user-images.githubusercontent.com/55674807/179158772-d9e2952c-839d-48bc-a429-e23e5262dfcd.mp4
+
+
 
 - 總共花費時間？耗時2.5天
 - 專案中最困難是？
